@@ -1,0 +1,16 @@
+First, install the most important packages by using following command
+
+pip install -r requirements.txt
+
+Secondly, to download the dataset file
+
+SumMe - https://drive.google.com/file/d/192n-CPd_cQ9ac6hRpq1rbYefslGGl9Wf/view?usp=share_link
+TVSum - https://drive.google.com/file/d/1ZmMSgyNt-np1Se3ggrShUhPS-uzxRv-n/view?usp=share_link
+
+put them into "./STVT/datasets/datasets"
+
+Now,To run the code,
+
+cd STVT
+
+python train.py --roundtimes save_name --dataset TVSum or SumMe
