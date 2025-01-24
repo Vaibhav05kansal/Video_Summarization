@@ -190,5 +190,5 @@ Please cite the following papers when you apply the code.
 **Contibutors:**
 1. Vaibhav Kansal
 2. Shivam Kumar
-3.Vikash Singh
+3. Vikash Singh
 4. Vinayak Singh
