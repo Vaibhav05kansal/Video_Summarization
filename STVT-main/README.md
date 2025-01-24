@@ -187,3 +187,8 @@ Please cite the following papers when you apply the code.
 
 [2] T.-C. Hsu, Y.-S. Liao and C.-R. Huang, "Video Summarization With Frame Index Vision Transformer," in Proc. International Conference on Machine Vision and Applications (MVA), Aichi, Japan, 2021, pp. 1-5, 2021, doi: 10.23919/MVA51890.2021.9511350.
 
+Contibutors:
+Vaibhav Kansal
+Shivam Kumar
+Vikash Singh
+Vinayak Singh
